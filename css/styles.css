@@ -97,3 +97,30 @@ body {
     margin-left: -25px;
     font-size: 14px;
 }
+
+/* Facebook Login */
+#facebook-login {
+    margin-bottom: 25px;
+}
+
+#facebook-login a {
+    text-decoration: none;
+    color: #385185;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#facebook-login img {
+    width: 16px;
+    height: 16px;
+    margin-right: 8px;
+}
+
+#facebook-login span {
+    font-weight: bold;
+    font-size: 13px;
+    margin-top: 1px;
+}
+
+/* Forgot password */
